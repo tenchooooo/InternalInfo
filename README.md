@@ -27,7 +27,7 @@
 - 電話を取り次ぐ時など、メンバーの出勤、出張情報をいち早く確認したいとき
 
 ## 設計書
-- [実装機能リスト]https://docs.google.com/spreadsheets/d/19hFwsgtIIJKSIGUVP92h8Q9lnRBWw2e1jn_gSe2VaCI/edit?usp=sharing
+- [実装機能リスト](https://docs.google.com/spreadsheets/d/19hFwsgtIIJKSIGUVP92h8Q9lnRBWw2e1jn_gSe2VaCI/edit?usp=sharing)
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
