@@ -34,8 +34,8 @@ ActiveRecord::Schema.define(version: 20220727130512) do
     t.string   "first_name",                             null: false
     t.string   "last_name_kana",                         null: false
     t.string   "first_name_kana",                        null: false
-    t.string   "address",                                null: false
     t.string   "telephone_number",                       null: false
+    t.string   "department",                             null: false
     t.boolean  "is_approval",            default: false, null: false
     t.boolean  "is_active",              default: true,  null: false
     t.datetime "created_at",                             null: false
